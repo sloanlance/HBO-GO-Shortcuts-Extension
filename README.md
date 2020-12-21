@@ -1,4 +1,4 @@
-# HBO-GO-Shortcuts-Extention
+# HBO-GO-Shortcuts-Extension
 Adds shortcuts to HBO Go. 
 
 | Key | Action |
